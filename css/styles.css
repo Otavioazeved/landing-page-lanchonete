@@ -13,4 +13,28 @@ header{
 }
 #title{
     flex-direction: column;
+    line-height: 10px
 }
+
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+a{
+    color:white
+}
+a :hover {
+    color: blueviolet;
+    transition: 0.3s all;
+}
+h1{
+    font-weight: 400;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+  
