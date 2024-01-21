@@ -1,0 +1,16 @@
+body {
+    background-color:blueviolet;
+    color: white;
+    max-width: 1200px;
+    margin: 0 auto;
+padding: 25px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#title{
+    flex-direction: column;
+}
